@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "377335298672",
+    "firebase_url": "https://orange-card-7abba-default-rtdb.firebaseio.com",
+    "project_id": "orange-card-7abba",
+    "storage_bucket": "orange-card-7abba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377335298672:android:0db0dc36361db2c84b12b5",
+        "android_client_info": {
+          "package_name": "com.example.orange_card"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALDZDTjgcRiYel-s98Qv8WOqMZA1gCHgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

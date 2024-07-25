@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "orange-card-7abba",
+          "appId": "1:377335298672:android:0db0dc36361db2c84b12b5",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "orange-card-7abba",
+          "configurations": {
+            "android": "1:377335298672:android:0db0dc36361db2c84b12b5",
+            "ios": "1:377335298672:ios:155b0657447b2dad4b12b5",
+            "macos": "1:377335298672:ios:155b0657447b2dad4b12b5",
+            "web": "1:377335298672:web:bf78f5e2c289c35f4b12b5",
+            "windows": "1:377335298672:web:f4aa85b3633a9f134b12b5"
+          }
+        }
+      }
+    }
+  }
+}
